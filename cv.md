@@ -35,8 +35,6 @@ experience in development web applications
     * Figma
     * Avocode
 
-
-
 ## Code example
 ```
 <div class="row">
@@ -51,8 +49,7 @@ experience in development web applications
 </div>
 ```
 ## Experience 
-### **Front End Developer**
-
+### **Front End Developer**     
 *Solution Mentors Inc - Mar. 2018 to present*
      
 * Markup developmanet pages of corporative website using bootstrap, jquery, accelerated mobile pages
@@ -60,23 +57,19 @@ experience in development web applications
 * Development of functionality of online shops based on the PHP framework using jQuery, Vue.js
 * [My portfolio](github.com/Mezhenskyi-portfolio)
 
-### **Trainee Front End Developer**
-
+### **Trainee Front End Developer**     
 *Solution Mentors Inc - Nov. 2017 to Feb. 2018*
 
 * Markup developmanet pages of company blog
 
 ### **Engineer-technologist without category - Leading engineer-technologist**
-
 *PJSC Energomashspetsstal - Aug. 2009 to Feb. 2018*
 
 ## Education 
-
 **Bachleores of science**   
 Donbass State Engineering Academy | 2004-2009
 
 ## COURSES
-
 **Advanced JavaScript**     
 Beetroot Academy | 2019
 * Creating applications with React
